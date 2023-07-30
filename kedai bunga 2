@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kedai Bunga XYZ</title>
+    <script>
+        function tambahKeTroli(){
+            //kode untuk menguruskan tindakan tambah ke troli alert('produk telah ditambah kee troli!');            
+        }
+    </script>
+</head>
+<body>
+    <h1>Selamat datang ke Kedai Bunga XYZ</h1>
+
+    <h2>Senarai Produk</h2>
+    <div class="produk">
+        <img src="Cymbidium_Clarisse_Austin_'Best_Pink'_Flowers_2000px.JPG"alt="Bunga Mawar">
+        <h3>Bunga Mawar</h3>
+        <p>Harga: RM10.00</p>
+        <button onclick="tambahKeTroli()">Tambah ke Troli</button>
+    </div>
+    <div class="produk">
+        <Img src="pngtree-bright-red-rose-flowers-in-spring-image_560212.jpg"alt="Bunga Anggerik">
+        <h3>Bunga Anggerik</h3>
+        <p>Harga: RM15.00</p>
+        <button onclick="tambahKeTroli()">Tambah Ke Troli</button>
+    </div>
+
+    <!--Menambahkan produk lain-->
+</body>
+</html>
