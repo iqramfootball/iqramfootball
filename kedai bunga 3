@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kedai Bunga XYZ</title>
+    <style>
+        .produk{
+            display: inline-block;
+            width: 200px;
+            text-align: center;
+            margin: 10px;
+        }
+    </style>
+</head>
+    <body>
+        <h1>Selamat Datang ke Kedai Bunga XYZ</h1>
+
+        <h2>Senarai Produk</h2>
+        <div class="produk">
+            <img src="gambar_bunga.jpg"alt="Bunga Mawar">
+            <h3>Bunga Mawar</h3>
+            <p>Harga: RM10.00</p>
+            <button onclick="tambahKeTroli()"></button>
+        </div>
+
+        <div class="produk">
+            <img src="gambar_bunga2.jpg"alt="Bunga Anggrek">
+            <h3>Bunga Anggerik</h3>
+            <p>Harga: RM 15.00</p>
+            <button onclick="tambahKeTroli()">Tambah Ke Troli</button>
+        </div>
+    </body>
+</html>
