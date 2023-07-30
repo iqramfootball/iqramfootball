@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kedai Bunga XYZ</title>
+</head>
+<body>
+  <h1>Selamat datang ke Kedai Bunga XYZ</h1>
+
+  <h2>Senarai Produk</h2>
+  <div class="Produk">
+    <img src="pngtree-bright-red-rose-flowers-in-spring-560212.jpg" alt="Bunga Mawar">
+    <h3>Bunga Mawar</h3>
+    <p>Harga: RM 10.00</p>
+    <button>Tambah ke Troli</button>
+  </div>
+  <div class="produk">
+    <img src="Cymbidium_Clarisse_Austin_'Best_Pink'_Flowers_2000px.JPG" alt="Bunga Anggerik">
+    <h3>Bunga Anggerik</h3>
+    <p>Harga: RM15.00</p>
+    <button>Tambah ke Troli</button>
+  </div>
+</body>
+</html>
